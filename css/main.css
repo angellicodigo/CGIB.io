@@ -64,3 +64,6 @@ h2{
   opacity:1;
   transition:0.5s;
 }
+#background{
+  background-color:white;
+}
